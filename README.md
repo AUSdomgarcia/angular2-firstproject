@@ -1,4 +1,4 @@
-# Angular 2 Beta Boilerplate
+# Angular 2 Beta Boilerplate copy from [mschwarzmueller](https://github.com/mschwarzmueller/angular-2-beta-boilerplate)
 
 ## Description
 This repository acts as a very simple Angular 2 Beta Boilerplate with which you can get started developing Angular 2 immediately.
